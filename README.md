@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ##Deployment
 
 ##How to contribute
+
+##Description
+This is a simple website project for showing github
